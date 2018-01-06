@@ -1,0 +1,14 @@
+body
+{
+	background-image: url("speedGame.jpg");
+	background-size: 100%
+}
+div 
+{
+	width: 200px;
+	height: 200px;
+	opacity: 1;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
